@@ -1,2 +1,2 @@
-# Yemek-Siparip-App
+# Yemek-Sipariş App
 Yemek sipariş masaüstü uygulaması
